@@ -1,0 +1,20 @@
+{
+  "name": "gulp-css-table-of-contents",
+  "version": "1.0.0",
+  "description": "Gulp wrapper for css-table-of-contents",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziga-miklic/gulp-css-table-of-contents.git"
+  },
+  "author": "Žiga Miklič",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ziga-miklic/gulp-css-table-of-contents/issues"
+  },
+  "homepage": "https://github.com/ziga-miklic/gulp-css-table-of-contents#readme",
+  "dependencies": {
+    "css-table-of-contents": "^1.0.1",
+    "through2": "^3.0.1"
+  }
+}
