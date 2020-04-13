@@ -1,6 +1,6 @@
 {
   "name": "gulp-css-table-of-contents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Gulp wrapper for css-table-of-contents",
   "main": "index.js",
   "repository": {
