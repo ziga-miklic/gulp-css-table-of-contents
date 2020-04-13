@@ -2,6 +2,12 @@
 
 Create a table of contents from comments in CSS files using a markdown-like syntax (`## Heading 2`). This is the Gulp version of [CSS Table Of Contents](https://github.com/ziga-miklic/css-table-of-contents).
 
+## Install
+
+```
+npm i gulp-css-table-of-contents -d
+```
+
 ## Example
 
 The below example created a task `toc` (use `gulp toc` in the terminal). It adds a numeric table of content on top of all the CSS files inside the `css` folder and places them inside `dist`.
